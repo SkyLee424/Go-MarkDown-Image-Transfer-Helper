@@ -25,7 +25,7 @@
 首先克隆本仓库到本地：
 
 ```zsh
-git clone https://github.com/Sky_Lee424/Go-MarkDown-Image-Transfer-Helper.git
+git clone https://github.com/SkyLee424/Go-MarkDown-Image-Transfer-Helper.git
 ```
 
 然后，进入项目目录，安装依赖：

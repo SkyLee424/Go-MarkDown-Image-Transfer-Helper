@@ -2,6 +2,8 @@
 
 ## Introduction
 
+English | [简体中文](./README.zh-CN.md)
+
 This tool is a Go program designed for migrating image files from local Markdown directories to an image hosting service.
 
 It is suitable for: **batch migration of local image files to an image hosting service and updating local Markdown files to match new image host URLs.**
@@ -25,7 +27,7 @@ It is suitable for: **batch migration of local image files to an image hosting s
 First, clone this repository locally:
 
 ```zsh
-git clone https://github.com/Sky_Lee424/Go-MarkDown-Image-Transfer-Helper.git
+git clone https://github.com/SkyLee424/Go-MarkDown-Image-Transfer-Helper.git
 ```
 
 Next, enter the project directory and install dependencies:
